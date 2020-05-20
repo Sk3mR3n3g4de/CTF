@@ -1,0 +1,8 @@
+Here's a few notes I've made to help with the CTF
+
+file.bin.encrypted isn't a bin file at all
+The key is ThisIsASecurePassword!
+
+Have fun!
+Sk3m
+x
